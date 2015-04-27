@@ -7,3 +7,16 @@
 		new C().avgFunc(x, y);
 	}
 }
+
+class c
+{
+	void avgFunc(int x,int y){
+
+
+	System.out.printf("%.2f",(float)(x+y)/2);
+
+
+
+    }
+
+}
