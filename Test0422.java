@@ -8,6 +8,22 @@
 	}
 }
 
+<<<<<<< HEAD
+class A{
+
+
+  void minFunc(int x,int y){
+
+    if(x>y)
+     {System.out.println("min:"+y);}
+    if(y>x)
+     {System.out.println("min"+x);}
+
+  }
+
+	
+}
+=======
 class c
 {
 	void avgFunc(int x,int y){
@@ -20,3 +36,4 @@ class c
     }
 
 }
+>>>>>>> develope
