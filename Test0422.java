@@ -7,6 +7,7 @@
 		new C().avgFunc(x, y);
 	}
 }
+
 class A{
 
 
@@ -19,4 +20,5 @@ class A{
 
   }
 
+	
 }
